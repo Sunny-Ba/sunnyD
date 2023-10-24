@@ -1,0 +1,62 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+  }
+  
+  /* target the class of inline-block below */
+  .inline-block {
+  display: inline-block;
+  padding: 15px;
+  }
+  /* target the class of .left below */
+  .left{
+  height: 500px;
+  background-color: lightblue;
+  width: 30%;
+  float: left;
+  text-align: center;
+  
+  }
+  /* target the class of .right below */
+  .right{
+    height: 500px;
+  background-color: lightgreen;
+  width: 70%;
+  float: left;
+  
+  }
+  
+  .card{
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 35px;
+  margin-top: 50px;
+  
+  }
+  .card1{
+    background-image: url("https://sm.ign.com/t/ign_pk/review/g/god-of-war/god-of-war-ragnarok-performance-analysis_jhdk.1200.jpg");
+    width: 150px; /* Set the desired width for your card */
+    height: 200px; /* Set the desired height for your card */
+    background-size: cover;
+    background-position: center;
+  
+  }
+  
+  .card2{
+    background-image: url("https://sm.ign.com/t/ign_pk/review/g/god-of-war/god-of-war-ragnarok-performance-analysis_jhdk.1200.jpg");
+    width: 150px; /* Set the desired width for your card */
+    height: 200px; /* Set the desired height for your card */
+    background-size: cover;
+    background-position: center;
+  
+  }
+  
+  .text {
+  margin: 35px;
+  
+  
+  
+  }
